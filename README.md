@@ -1,5 +1,4 @@
-# Projeto CUBO em Java
-Projeto CUBO desenvolvido em JAVA
+# Projeto CUBO desenvolvido em Java
 
 ## Criar um projeto de Banco:
 Crie uma classe Conta que será a classe Mãe, a partir dela crie a classe
